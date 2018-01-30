@@ -1,0 +1,206 @@
+
+/* Typografi */
+
+
+p {
+	font-size: 25px;
+    font-family: Verdana;
+	line-height: 45px;
+	color: #000000; 
+    float: left;
+}
+h1 {
+	font-size: 65px;
+	color: #000000;
+    font-family: Verdana;
+}
+h2 {
+	font-size: 40px;
+	color: #000000;
+    font-family: Verdana;
+}
+
+/* Header */
+
+.banner-baggrund {
+    width: 1900px;
+    height: 100px;
+}
+.baggrund {
+    width: 1900px;
+    height: 600px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+}
+
+ .logo {
+position: absolute;
+top: 35px;
+left: 150px;   
+}
+
+.h1-forside {
+    position: absolute;
+    top: 1px;
+    left: 100px;
+}
+
+.h1-forside-tekst {
+    color: #FFFFFF;
+  font-family: Verdana;
+}
+
+.banner-p {
+    position: absolute;
+    top: 250px;
+    left: 100px;
+}
+
+.banner-tekst-p {
+    font-size: 30px;
+    line-height: 40px;
+    color: #FFFFFF      
+}
+
+.velkommen {
+    font-size: 30px;
+    line-height: 80px;
+    color: #FFFFFF
+}
+
+.citat-pic {
+    position: absolute;
+    top: 100px;
+    left: 1000px;
+    width: 600px;
+    
+}
+
+.navigation {
+	float: right;
+    font-family: Verdana, Geneva, sans-serif;
+    padding-top: 50px;
+}
+
+.navigation a {
+	color: #FFFFFF;
+	font-size: 20px;
+	font-weight: 400;
+	margin-left: 40px;
+    letter-spacing: 3px;
+	text-transform: uppercase;
+}
+
+/* Indhold */
+
+.overskrift {
+ padding-right: 500px;   
+}
+
+.mathias {
+    height: 500px;
+    padding-top: 30px;
+    padding-right: 200px;
+    float: right;
+}
+
+.info {
+float: left;
+padding-left: 30px; 
+font-size: 20px;
+}
+
+.info-2 {
+float: right;
+padding-right: 30px;
+    font-size: 20px;
+}
+
+.venstre-pic {
+    height: 150px;
+    padding-right: 1000px;
+}
+
+.højre-pic {
+    height: 150px;
+    padding-left: 1000px;
+}
+
+.left {
+    float: left;
+    width: 500px;
+}
+
+.middle {
+    width: 500px;
+}
+
+.right {
+    float: right;
+    width: 500px;
+}
+
+.pics {
+    float: left;
+    width: 25%;
+}
+
+.pics-content {
+    padding: 10px;
+}
+
+.pics-img {
+    width: 100%;
+}
+/* Footer */
+
+.footer-baggrund {
+    position: relative;
+}
+
+.footer-kon {
+    position: absolute;
+    top: 3822px;
+    left: 50px;
+}
+
+.footer-kontakt {
+    font-family: Verdana;
+    font-size: 20px;
+    color: #000000
+}
+
+.footer-tel {
+    position: absolute;
+    top: 3822px;
+    left: 600px;
+}
+
+.footer-tlf {
+    font-family: Verdana;
+    font-size: 20px;
+    color: #000000
+}
+
+.insta-pic {
+height: 50px;
+}
+
+.insta {
+ position: absolute;
+top: 1918px;
+left: 800px;
+}
+
+.youtube-pic {
+    height: 50px;
+}
+
+.youtube {
+position: absolute;
+top:1918px;
+left: 750px;
+}
